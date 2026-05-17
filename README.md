@@ -12,6 +12,7 @@ Requires [Peak More Customizations](https://github.com/Creta5164/peak-more-custo
 - Any mouth that isn't a line was also made by me
 - Other facial features are from [here](https://gamebanana.com/mods/515472)
 - Original mii body model was made by [this guy](https://sketchfab.com/3d-models/mii-c736e96d689242c0abc2b84a7225205e)
+- [Thunderstore Page](https://thunderstore.io/c/peak/p/fourever/Piik/)
 
 # Notes
 
