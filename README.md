@@ -2,6 +2,8 @@
 
 A mod that adds miis into Peak!
 
+![Thumbnail](https://github.com/fourever-blue/Piik/blob/main/icon.png)
+
 Requires [Peak More Customizations](https://github.com/Creta5164/peak-more-customizations) to work!
 
 # Credits
