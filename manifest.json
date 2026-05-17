@@ -1,10 +1,10 @@
 {
   "name": "Piik",
-  "description": "Mod that adds Nintendo's Miis into Peak'.",
-  "version_number": "1.0",
+  "description": "Mod that adds Nintendo's Miis into Peak.",
+  "version_number": "1.0.0",
   "dependencies": [
     "BepInEx-BepInExPack_PEAK-5.4.75301",
-    "Peak-More-Customizations-1.1.4"
+    "	cretapark-More_Customizations-1.1.10"
   ],
   "website_url": "https://github.com/fourever-blue/Piik"
 }
