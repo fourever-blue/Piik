@@ -26,4 +26,5 @@ Ans yes I am aware not ALL eyes were made, it takes a while to redraw them ok? I
 
 # YouTube
 
-when i made a video out of this the link is going here muahahaha
+i made a video out of this 
+https://youtu.be/FcmZ1JuqFmI
